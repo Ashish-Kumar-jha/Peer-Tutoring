@@ -1,0 +1,36 @@
+#termimg{
+height: 100%;
+width: 100%;
+padding-top:55%;
+}
+#termimg1{
+height: 100%;
+width: 100%;
+padding-top:75%;
+}
+#termimg2{
+height: 100%;
+width: 100%;
+padding-top:25%;
+}
+#termimg3{
+height: 100%;
+width: 100%;
+padding-top:55%;
+}
+#termimg4{
+height: 100%;
+width: 100%;
+padding-top:40%;
+}
+
+.row, .col{
+	margin:0;
+	padding:0;
+}
+.contentdiv
+{
+	padding-left:10%;
+	padding-right:10%;
+	padding-bottom:10%;
+}
